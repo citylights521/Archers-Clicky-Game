@@ -1,14 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Sigmar+One" rel="stylesheet");
+
 .navbar {
-    background: #5133a4;
+    background: rgba(194, 84, 44, 0.808);
     min-height: 70px;
     position: fixed;
     width: 100%;
     -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
     box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
-    color: #fff;
+    color: rgb(194, 187, 187);
     font-size: calc(10px + 14 * (100vw - 320px)/ 800);
     z-index: 99;
     white-space: nowrap;
+}
+
+.refresh {
+    font-size: 25px;
 }
 
 .navbar ul {
@@ -17,10 +23,11 @@
 }
 
 .message {
-    margin-left: 25%;
+    margin-left: 22%;
     width: 50%;
 }
 
 .score {
     right: 0%;
+    font-family: 'Sigmar One', cursive;
 }

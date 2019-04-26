@@ -7,7 +7,7 @@ export default class Navbar extends React.Component {
         return (
             <nav className="navbar navbar-expand-lg navbar-light">
                 <ul className="nav navbar-nav navbar-left">
-                    <li className="navbar-brand">
+                    <li className="refresh navbar-brand">
                         <a href="/">Archers Clicky Game</a>
                     </li>
                 </ul>
