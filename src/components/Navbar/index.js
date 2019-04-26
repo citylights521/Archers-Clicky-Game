@@ -8,7 +8,7 @@ export default class Navbar extends React.Component {
             <nav className="navbar navbar-expand-lg navbar-light">
                 <ul className="nav navbar-nav navbar-left">
                     <li className="refresh navbar-brand">
-                        <a href="/">Archers Clicky Game</a>
+                        <a href="/">Reset</a>
                     </li>
                 </ul>
                 <span className="message" ref={this.props.propRefs.guessMsgLi}>Click an image to start!</span>
