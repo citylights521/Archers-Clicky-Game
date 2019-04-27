@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Archers-Clicky-Game/static/css/main.9e22a64c.chunk.css",
+    "main.js": "/Archers-Clicky-Game/static/js/main.5336d308.chunk.js",
+    "main.js.map": "/Archers-Clicky-Game/static/js/main.5336d308.chunk.js.map",
+    "runtime~main.js": "/Archers-Clicky-Game/static/js/runtime~main.c4c04887.js",
+    "runtime~main.js.map": "/Archers-Clicky-Game/static/js/runtime~main.c4c04887.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Archers-Clicky-Game/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.b60f2fe3.chunk.js": "/Archers-Clicky-Game/static/js/2.b60f2fe3.chunk.js",
+    "static/js/2.b60f2fe3.chunk.js.map": "/Archers-Clicky-Game/static/js/2.b60f2fe3.chunk.js.map",
+    "index.html": "/Archers-Clicky-Game/index.html",
+    "precache-manifest.80ceb47a2b8ec7b3099036e362d0f37a.js": "/Archers-Clicky-Game/precache-manifest.80ceb47a2b8ec7b3099036e362d0f37a.js",
+    "service-worker.js": "/Archers-Clicky-Game/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Archers-Clicky-Game/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.9e22a64c.chunk.css.map": "/Archers-Clicky-Game/static/css/main.9e22a64c.chunk.css.map",
+    "static/media/Barry.jpg": "/Archers-Clicky-Game/static/media/Barry.ff4e14fd.jpg",
+    "static/media/Cheryl.jpg": "/Archers-Clicky-Game/static/media/Cheryl.18b4a31a.jpg",
+    "static/media/Figgis.jpg": "/Archers-Clicky-Game/static/media/Figgis.9943f2ad.jpg",
+    "static/media/style.css": "/Archers-Clicky-Game/static/media/Jumbotron.ef6a80ea.jpg",
+    "static/media/Krieger.jpg": "/Archers-Clicky-Game/static/media/Krieger.17ff90c8.jpg",
+    "static/media/Lana.jpg": "/Archers-Clicky-Game/static/media/Lana.9b417448.jpg",
+    "static/media/Nikolai.Jakov.png": "/Archers-Clicky-Game/static/media/Nikolai.Jakov.dba6acc8.png",
+    "static/media/Pam.jpg": "/Archers-Clicky-Game/static/media/Pam.fc5175c1.jpg",
+    "static/media/Ray.jpg": "/Archers-Clicky-Game/static/media/Ray.3cbd8fd2.jpg",
+    "static/media/Ron.Cadillac.jpg": "/Archers-Clicky-Game/static/media/Ron.Cadillac.3989394a.jpg",
+    "static/media/Sterling.Archer.png": "/Archers-Clicky-Game/static/media/Sterling.Archer.adbd10a0.png",
+    "static/media/Trinette.jpg": "/Archers-Clicky-Game/static/media/Trinette.4c94b306.jpg",
+    "static/media/Woodhouse.png": "/Archers-Clicky-Game/static/media/Woodhouse.a631e7fe.png"
+  }
+}
