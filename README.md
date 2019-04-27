@@ -1,68 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Archers-Clicky-Game
 
-## Available Scripts
+You are in the ‘Danger Zone!’ while playing Archers Clicky Game (per Archer himself). All of your favorite characters are here from Archer to Lana to the beloved Woodhouse in this interactive points based game.
 
-In the project directory, you can run:
+TODO:ADD GIF
 
-### `npm start`
+## How to Play
+Users click any character to start. The goal of the game is to only click each character once, with the highest top score achievable being 12. If you accidently click the same card twice, you loose and the game resets. The challenge is in that every time you make a guess, the characters will shuffle and reorganize. Keep track of your score by watching the right hand of the nav bar at the top of the page. The center of the nav bar gives you a message update on each guess as well as to whether you guessed right, wrong, or got them all correct! The link on the top left in the nav bar resets your score and re-loads the page. 
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## GitHub Link
+https://github.com/citylights521/Archers-Clicky-Game
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Deployed Link
+https://citylights521.github.io/Archers-Clicky-Game/index.html
 
-### `npm test`
+## Components Used
+* React
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
+* Google Fonts
+* Visual Studio Code
+* GitHub
+* Git Bash
+* Markdown
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Author
+Claire Gibeau
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Feedback
+React is awesome! The file structure is different from some of my other work so required some learning there, as well as syntactical differences from traditional JavaScript. I spent the most time on this project getting the characters to display properly and hooking up the point system. Happy with the end result and am ready to play a round while watching the show!
